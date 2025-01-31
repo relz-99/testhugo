@@ -1,4 +1,4 @@
-baseurl = "" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://github.com/relz-99/hugo-universal-theme" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Beba Deodorant Spray Tawas Website"
 theme = "hugo-universal-theme"
 languageCode = "id-id"
