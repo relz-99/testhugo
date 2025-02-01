@@ -94,9 +94,9 @@ id = ""
 [params]
     viewMorePostLink = "/blog/"
     author = "Ardhi"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = ["beba", "deodorant", "spray", "tawas"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Beba Deo Spray, deodorant spray tawas alami"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -246,7 +246,7 @@ id = ""
     enable = true
     title = "Artikel terbaru dari blog kami"
     subtitle = ""
-    hide_summary = false
+    hide_summary = true
 
 [params.footer.recent_posts]
     enable = true
