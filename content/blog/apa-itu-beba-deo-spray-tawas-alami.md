@@ -19,7 +19,7 @@ Sering merasa kurang percaya diri karena bau badan ? Atau sudah pakai deodorant 
 
 ### 1. Kenalan dengan Beba Deo Spray Yuk: Deodorant Spray Alami dari Tawas{#kenalan-dengan-beba-deo-spray-yuk-deodorant-spray-alami-dari-tawas}
 
-Beba Deo Spray adalah deodorant spray tawas alami berbahan dasar air murni dan tawas premium. Dengan filosofi "*simplicity makes perfection*", Beba Deo Spray dirancang menggunakan bahan sederhana namun efektif untuk menghilangkan bau badan tanpa tambahan parfum atau alkohol.
+Beba Deo Spray adalah deodorant spray tawas alami berbahan dasar air murni dan tawas premium. Dengan filosofi "simplicity makes perfection", Beba Deo Spray dirancang menggunakan bahan sederhana namun efektif untuk menghilangkan bau badan tanpa tambahan parfum atau alkohol.
 
 Berbeda dengan deodorant roll-on atau stick yang sering kali hanya menutupi bau badan dengan parfum, deodorant spray tawas bekerja dengan mencegah penyebab bau badan. Terinspirasi dari deodorant klasik rendaman air tawas, lahirlah deodorant spray tawas dalam bentuk botol yang praktis, sehingga tidak perlu repot mencuci tangan setelah pemakaian.
 
