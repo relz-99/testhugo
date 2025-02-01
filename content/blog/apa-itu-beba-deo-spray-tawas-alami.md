@@ -85,4 +85,4 @@ Rasakan kenyamanan bebas bau badan dengan Beba Deo Spray sekarang!
 
 Jadi, tunggu apa lagi? Saatnya beralih ke Beba Deo Spray, deodorant spray tawas alami yang ampuh menghilangkan bau badan tanpa meninggalkan noda di pakaian.
 
-[🛒 Klik disini](/shop/) untuk order sekarang dan rasakan perbedaannya sendiri!
+[{{< icon shopping-cart shake >}} Klik disini](/shop/) untuk order sekarang dan rasakan perbedaannya sendiri!
