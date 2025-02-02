@@ -1,5 +1,5 @@
 <figure class="blog-figure">
-    <img class="blog-img" src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy">
     {{ if .Get "caption" }}
         <figcaption>{{ .Get "caption" }}</figcaption>
     {{ end }}
