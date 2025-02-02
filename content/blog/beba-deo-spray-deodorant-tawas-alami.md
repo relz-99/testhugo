@@ -9,7 +9,7 @@ banner = 'img/bckground.jpg'
 
 Sering merasa kurang percaya diri karena bau badan ? Atau sudah pakai deodorant tapi kulit ketiak malah menghitam dan pakaian jadi kotor karena noda? Gak perlu khawatir lagi, karena sekarang ada Beba Deo Spray, deodorant spray tawas yang ampuh menghilangkan bau badan secara alami.
 
-{{< image src="/img/bckground.jpg" alt="Beba Deo Spray - Deodorant Spray Tawas Alami" caption="Deodorant spray tawas alami yang ampuh menghilangkan bau badan" >}}
+{{< image src="/img/bckground.jpg" alt="Beba Deo Spray - Deodorant Spray Tawas Alami">}}
 
 ## Daftar Isi
 1. [Kenalan dengan Beba Deo Spray Yuk: Deodorant Spray Alami dari Tawas](#kenalan-dengan-beba-deo-spray-yuk-deodorant-spray-alami-dari-tawas)
@@ -83,7 +83,7 @@ Beba Deo Spray adalah solusi deodorant spray tawas alami berbasis air dan tawas 
 
 Jika deodorant yang kamu gunakan saat ini meninggalkan noda, tidak benar-benar menghilangkan bau, atau membuat kulit iritasi dan menghitam, saatnya beralih ke Beba Deo Spray!
 
-Rasakan kenyamanan bebas bau badan dengan Beba Deo Spray sekarang! :star:
+Rasakan kenyamanan bebas bau badan dengan Beba Deo Spray sekarang!
 
 Jadi, tunggu apa lagi? Saatnya beralih ke Beba Deo Spray, deodorant spray tawas alami yang ampuh menghilangkan bau badan tanpa meninggalkan noda di pakaian.
 
